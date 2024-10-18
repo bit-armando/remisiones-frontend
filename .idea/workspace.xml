@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d00ea6a-f1f0-41da-adbb-f5b2254f38be" name="Changes" comment="Correccion link remision">
-      <change afterPath="$PROJECT_DIR$/.streamlit/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/pagina1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/remision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarios.csv" afterDir="false" />
+    <list default="true" id="7d00ea6a-f1f0-41da-adbb-f5b2254f38be" name="Changes" comment="Se agrego un login a la app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remision.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/inicio.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <workItem from="1728523518446" duration="21000" />
       <workItem from="1729099067432" duration="3056000" />
       <workItem from="1729186249101" duration="3456000" />
-      <workItem from="1729260024187" duration="5999000" />
+      <workItem from="1729260024187" duration="7910000" />
     </task>
     <task id="LOCAL-00001" summary="Vista de busqueda remisiones">
       <option name="closed" value="true" />
@@ -128,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728415022119</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Se agrego un login a la app">
+      <option name="closed" value="true" />
+      <created>1729266614763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729266614763</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vista de busqueda remisiones" />
     <MESSAGE value="Correccion link remision" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correccion link remision" />
+    <MESSAGE value="Se agrego un login a la app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrego un login a la app" />
   </component>
 </project>

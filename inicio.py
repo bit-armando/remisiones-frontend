@@ -13,4 +13,5 @@ if 'usuario' in st.session_state:
         btnBuscar = st.form_submit_button('Buscar', type='primary')
 
         if btnBuscar:
-            webbrowser.open_new_tab(f"http://{hostname}/remision/ver/{guion(num_remison)}")
+            st.page_link(f"http://{hostname}/remision/ver/{guion(num_remison)}", label="Ver", icon="")
+            # webbrowser.open_new_tab(f"http://{hostname}/remision/ver/{guion(num_remison)}")
