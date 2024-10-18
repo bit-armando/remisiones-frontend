@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d00ea6a-f1f0-41da-adbb-f5b2254f38be" name="Changes" comment="Se agrego un login a la app">
+    <list default="true" id="7d00ea6a-f1f0-41da-adbb-f5b2254f38be" name="Changes" comment="Se corrigio la ventana externa de la remision">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/inicio.py" afterDir="false" />
     </list>
@@ -88,7 +88,7 @@
       <workItem from="1728523518446" duration="21000" />
       <workItem from="1729099067432" duration="3056000" />
       <workItem from="1729186249101" duration="3456000" />
-      <workItem from="1729260024187" duration="7910000" />
+      <workItem from="1729260024187" duration="8459000" />
     </task>
     <task id="LOCAL-00001" summary="Vista de busqueda remisiones">
       <option name="closed" value="true" />
@@ -130,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729266614763</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se corrigio la ventana externa de la remision">
+      <option name="closed" value="true" />
+      <created>1729269103809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729269103809</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +148,7 @@
     <MESSAGE value="Vista de busqueda remisiones" />
     <MESSAGE value="Correccion link remision" />
     <MESSAGE value="Se agrego un login a la app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrego un login a la app" />
+    <MESSAGE value="Se corrigio la ventana externa de la remision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se corrigio la ventana externa de la remision" />
   </component>
 </project>
